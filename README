@@ -1,0 +1,7 @@
+# Webserver response delay measurement
+
+This is a tool to extract the delay between first incoming packet and first outgoing packet.
+
+Read about it on: http://silentorbit.com/notes/2010/01/measuring-delay-in-webserver-response/
+
+Licensed under the GPLv3
